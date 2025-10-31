@@ -7,3 +7,11 @@ que separa **header**, **implementación** y **app** para simular operaciones de
 - **BONO:** genera `reporte_inventario.txt`.
 
 ## Estructura
+TiendaOnline/
+├─ CMakeLists.txt
+├─ include/
+│ └─ Producto.h
+├─ src/
+│ └─ Producto.cpp
+└─ app/
+└─ main.cpp
