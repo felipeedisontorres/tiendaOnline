@@ -10,8 +10,11 @@ que separa **header**, **implementación** y **app** para simular operaciones de
 TiendaOnline/
 ├─ CMakeLists.txt
 ├─ include/
+
 │ └─ Producto.h
 ├─ src/
+
 │ └─ Producto.cpp
 └─ app/
+
 └─ main.cpp
